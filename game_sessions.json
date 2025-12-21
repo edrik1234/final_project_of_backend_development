@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "telegram_id": 5560635677,
+    "questions": "1. Which programming language, first released in 1995, was originally named Oak after an oak tree outside its creator's office?  \n2. In web development, what does the acronym CSS stand for?  \n3. What is the name of the algorithm used by Git for tracking changes in source code during software development?  \n4. In Python, what keyword is used to define a function?",
+    "answers": "1 java \n2) cascading style sheets\n3) ci/cd\n4) def",
+    "result": "Let’s check each answer:  \n\n1. **Your answer:** `java`  \n   **Question:** Which programming language, first released in 1995, was originally named Oak after an oak tree outside its creator's office?  \n   ✅ **Correct.** Java was originally named Oak.  \n\n2. **Your answer:** `cascading style sheets`  \n   **Question:** In web development, what does the acronym CSS stand for?  \n   ✅ **Correct.** CSS stands for Cascading Style Sheets.  \n\n3. **Your answer:** `ci/cd`  \n   **Question:** What is the name of the algorithm used by Git for tracking changes in source code during software development?  \n   ❌ **Incorrect.** CI/CD refers to Continuous Integration/Continuous Deployment, not the Git change-tracking algorithm.  \n   **Correct answer:** Git uses the **SHA-1 hash algorithm** for tracking changes, but the core method for tracking changes is based on a **content-addressable filesystem** and **snapshot-based tracking**, not a single named algorithm like \"diff.\" However, the most precise answer to the question as commonly asked is **SHA-1** (though Git is moving toward SHA-256).  \n\n4. **Your answer:** `def`  \n   **Question:** In Python, what keyword is used to define a function?  \n   ✅ **Correct.** In Python, `def` is used to define a function.  \n\n**Summary:**  \n1. ✅ Correct  \n2. ✅ Correct  \n3. ❌ Incorrect — correct answer is **SHA-1** (for Git’s change tracking)  \n4. ✅ Correct",
+    "created_at": "2025-12-21T11:30:38.833555"
+  }
+]
