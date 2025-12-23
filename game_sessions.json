@@ -2,9 +2,9 @@
   {
     "id": 1,
     "telegram_id": 5560635677,
-    "questions": "1. Which country has won the most FIFA World Cup titles?  \n2. Who holds the record for the most goals scored in a single Premier League season?  \n3. Which club has won the UEFA Champions League the most times?  \n4. What is the name of the trophy awarded to the winner of the UEFA European Championship?",
-    "answers": "1) usa\n2) ima\n3) savta\n4) games",
-    "result": "Let's check each answer:  \n\n1. **Which country has won the most FIFA World Cup titles?**  \n   Your answer: *usa* ❌  \n   Correct answer: **Brazil** (5 titles).  \n\n2. **Who holds the record for the most goals scored in a single Premier League season?**  \n   Your answer: *ima* ❌  \n   Correct answer: **Erling Haaland** (36 goals in 2022–23).  \n\n3. **Which club has won the UEFA Champions League the most times?**  \n   Your answer: *savta* ❌  \n   Correct answer: **Real Madrid** (14 titles).  \n\n4. **What is the name of the trophy awarded to the winner of the UEFA European Championship?**  \n   Your answer: *games* ❌  \n   Correct answer: **Henri Delaunay Trophy**.  \n\nAll answers are incorrect.",
-    "created_at": "2025-12-23T17:20:34.930865+02:00"
+    "questions": "1. Which country has won the most FIFA World Cup titles?  \n2. Who holds the record for the most goals scored in a single Premier League season?  \n3. Which club has won the most UEFA Champions League titles?  \n4. What is the name of the trophy awarded to the winner of the European Championship?",
+    "answers": "1 messi 2 mar 3 optiks 4 review",
+    "result": "Let's check each answer against the questions:\n\n1. **Question:** Which country has won the most FIFA World Cup titles?  \n   **Your answer:** messi → ❌ Incorrect.  \n   **Correct answer:** Brazil (5 titles).\n\n2. **Question:** Who holds the record for the most goals scored in a single Premier League season?  \n   **Your answer:** mar → ❌ Incorrect.  \n   **Correct answer:** Erling Haaland (36 goals in 2022–23 season).  \n   *(Note: Previous record was held by Andy Cole and Alan Shearer with 34 goals, but Haaland now holds the current record.)*\n\n3. **Question:** Which club has won the most UEFA Champions League titles?  \n   **Your answer:** optiks → ❌ Incorrect.  \n   **Correct answer:** Real Madrid (14 titles).\n\n4. **Question:** What is the name of the trophy awarded to the winner of the European Championship?  \n   **Your answer:** review → ❌ Incorrect.  \n   **Correct answer:** Henri Delaunay Trophy.\n\n**Summary:** All answers are incorrect.",
+    "created_at": "2025-12-23T17:35:15.925890+02:00"
   }
 ]
