@@ -2,9 +2,17 @@
   {
     "id": 1,
     "telegram_id": 5560635677,
-    "questions": "1. Which programming language, first released in 1995, was originally named Oak after an oak tree outside its creator's office?  \n2. In web development, what three letters commonly refer to the standard styling language used to control the layout and appearance of HTML documents?  \n3. What term describes a function that calls itself within its own definition, often used in algorithms like factorial calculation or tree traversal?  \n4. In version control systems, what is the name of the popular distributed system created by Linus Torvalds in 2005, primarily used for tracking changes in source code?",
-    "answers": "1) python\n2) js\n3) volvo\n4) xs",
-    "result": "Let's check each answer against the questions:  \n\n1. **Question:** Which programming language, first released in 1995, was originally named Oak after an oak tree outside its creator's office?  \n   **Your answer:** python → **Incorrect**  \n   **Correct answer:** Java (Python was released in 1991 and wasn’t named Oak).  \n\n2. **Question:** In web development, what three letters commonly refer to the standard styling language used to control the layout and appearance of HTML documents?  \n   **Your answer:** js → **Incorrect**  \n   **Correct answer:** CSS (JS refers to JavaScript, which is for scripting, not styling).  \n\n3. **Question:** What term describes a function that calls itself within its own definition, often used in algorithms like factorial calculation or tree traversal?  \n   **Your answer:** volvo → **Incorrect**  \n   **Correct answer:** Recursion (or recursive function).  \n\n4. **Question:** In version control systems, what is the name of the popular distributed system created by Linus Torvalds in 2005, primarily used for tracking changes in source code?  \n   **Your answer:** xs → **Incorrect**  \n   **Correct answer:** Git.  \n\n**Summary:**  \nNone of the answers are correct.  \nCorrect answers:  \n1. Java  \n2. CSS  \n3. Recursion (or recursive function)  \n4. Git",
-    "created_at": "2025-12-25T17:35:59.214797+02:00"
+    "questions": "1. Which country has won the most FIFA World Cup titles?  \n2. Who holds the record for the most goals scored in a single calendar year?  \n3. Which club has won the most UEFA Champions League titles?  \n4. What is the name of the award given to the best player in a World Cup tournament?",
+    "answers": "1( Argentina\n2) edrian\n3) z\n4) soniua",
+    "result": "Let's check each answer:  \n\n1. **Argentina** — **Incorrect**. The country with the most FIFA World Cup titles is **Brazil** (5 wins).  \n2. **Edrian** — **Incorrect**. The record for most goals in a single calendar year is held by **Lionel Messi** (91 goals in 2012).  \n3. **Z** — **Incorrect**. The club with the most UEFA Champions League titles is **Real Madrid** (14 wins).  \n4. **Soniua** — **Incorrect**. The award for best player in a World Cup tournament is the **Golden Ball**.  \n\n**Corrected answers:**  \n1. Brazil  \n2. Lionel Messi  \n3. Real Madrid  \n4. Golden Ball",
+    "created_at": "2025-12-25T19:13:50.023891+02:00"
+  },
+  {
+    "id": 2,
+    "telegram_id": 5560635677,
+    "questions": "1. Which country has won the most FIFA World Cup titles?  \n2. Who holds the record for the most goals scored in a single calendar year?  \n3. Which club has won the most UEFA Champions League titles?  \n4. What is the name of the trophy awarded to the winner of the European Championship?",
+    "answers": "1) USA\n2) mico\n3) FIFA\n4) popa",
+    "result": "Let's check each answer:  \n\n1. **USA** → Incorrect. The country with the most FIFA World Cup titles is **Brazil** (5 titles).  \n2. **mico** → Incorrect. Likely meant **Messi**, but the record for most goals in a single calendar year is held by **Lionel Messi** (91 goals in 2012).  \n3. **FIFA** → Incorrect. The club with the most UEFA Champions League titles is **Real Madrid** (14 titles).  \n4. **popa** → Incorrect. The trophy awarded to the winner of the European Championship is the **Henri Delaunay Trophy**.  \n\n**Correct answers:**  \n1. Brazil  \n2. Lionel Messi  \n3. Real Madrid  \n4. Henri Delaunay Trophy",
+    "created_at": "2025-12-25T19:18:50.396990+02:00"
   }
 ]
