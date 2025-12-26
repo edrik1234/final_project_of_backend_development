@@ -2,25 +2,9 @@
   {
     "id": 1,
     "telegram_id": 5560635677,
-    "questions": "1. Which country has won the most FIFA World Cup titles?  \n2. Who holds the record for the most goals scored in a single calendar year?  \n3. Which club has won the most UEFA Champions League titles?  \n4. What is the name of the award given to the best player in a World Cup tournament?",
-    "answers": "1( Argentina\n2) edrian\n3) z\n4) soniua",
-    "result": "Let's check each answer:  \n\n1. **Argentina** — **Incorrect**. The country with the most FIFA World Cup titles is **Brazil** (5 wins).  \n2. **Edrian** — **Incorrect**. The record for most goals in a single calendar year is held by **Lionel Messi** (91 goals in 2012).  \n3. **Z** — **Incorrect**. The club with the most UEFA Champions League titles is **Real Madrid** (14 wins).  \n4. **Soniua** — **Incorrect**. The award for best player in a World Cup tournament is the **Golden Ball**.  \n\n**Corrected answers:**  \n1. Brazil  \n2. Lionel Messi  \n3. Real Madrid  \n4. Golden Ball",
-    "created_at": "2025-12-25T19:13:50.023891+02:00"
-  },
-  {
-    "id": 2,
-    "telegram_id": 5560635677,
-    "questions": "1. Which country has won the most FIFA World Cup titles?  \n2. Who holds the record for the most goals scored in a single calendar year?  \n3. Which club has won the most UEFA Champions League titles?  \n4. What is the name of the trophy awarded to the winner of the European Championship?",
-    "answers": "1) USA\n2) mico\n3) FIFA\n4) popa",
-    "result": "Let's check each answer:  \n\n1. **USA** → Incorrect. The country with the most FIFA World Cup titles is **Brazil** (5 titles).  \n2. **mico** → Incorrect. Likely meant **Messi**, but the record for most goals in a single calendar year is held by **Lionel Messi** (91 goals in 2012).  \n3. **FIFA** → Incorrect. The club with the most UEFA Champions League titles is **Real Madrid** (14 titles).  \n4. **popa** → Incorrect. The trophy awarded to the winner of the European Championship is the **Henri Delaunay Trophy**.  \n\n**Correct answers:**  \n1. Brazil  \n2. Lionel Messi  \n3. Real Madrid  \n4. Henri Delaunay Trophy",
-    "created_at": "2025-12-25T19:18:50.396990+02:00"
-  },
-  {
-    "id": 3,
-    "telegram_id": 5560635677,
-    "questions": "1. Which country has won the most FIFA World Cup titles?  \n2. Who is the all-time leading goal scorer in the history of the UEFA Champions League?  \n3. Which club has won the most English top-flight league championships?  \n4. What is the name of the award given annually to the best player in European football?",
-    "answers": "1) ff , 2) FIFA, 3) org , 4) optiks",
-    "result": "Let's check each answer against the questions:\n\n1. **Question:** Which country has won the most FIFA World Cup titles?  \n   **Your answer:** ff → This is not a recognizable country name.  \n   **Correct answer:** Brazil (5 titles).\n\n2. **Question:** Who is the all-time leading goal scorer in the history of the UEFA Champions League?  \n   **Your answer:** FIFA → FIFA is the organization, not a player.  \n   **Correct answer:** Cristiano Ronaldo.\n\n3. **Question:** Which club has won the most English top-flight league championships?  \n   **Your answer:** org → This is not a club name.  \n   **Correct answer:** Manchester United (20 titles).\n\n4. **Question:** What is the name of the award given annually to the best player in European football?  \n   **Your answer:** optiks → This is not the award name.  \n   **Correct answer:** Ballon d'Or.\n\n**Summary:**  \nAll four answers are incorrect. Here are the correct answers:\n\n1. Brazil  \n2. Cristiano Ronaldo  \n3. Manchester United  \n4. Ballon d'Or",
-    "created_at": "2025-12-25T19:23:58.398860+02:00"
+    "questions": "1. What programming language, first released in 1995, was originally named Oak after an oak tree outside its creator's office?  \n2. In Python, what keyword is used to define a function?  \n3. Which data structure operates on a \"first in, first out\" (FIFO) principle?  \n4. What term describes a variable that is accessible from any scope in a program?",
+    "answers": "1) java\n2) pitcher\n3) js\n4) dict",
+    "result": "Let’s check each one:  \n\n1. **Your answer:** `java`  \n   **Question:** What programming language, first released in 1995, was originally named Oak after an oak tree outside its creator's office?  \n   ✅ **Correct.** Java was originally called Oak.  \n\n2. **Your answer:** `pitcher`  \n   **Question:** In Python, what keyword is used to define a function?  \n   ❌ **Incorrect.** The correct answer is `def`.  \n\n3. **Your answer:** `js`  \n   **Question:** Which data structure operates on a \"first in, first out\" (FIFO) principle?  \n   ❌ **Incorrect.** The correct answer is `queue`.  \n\n4. **Your answer:** `dict`  \n   **Question:** What term describes a variable that is accessible from any scope in a program?  \n   ❌ **Incorrect.** The correct answer is `global variable`.  \n\n**Summary:**  \n1. ✅ java  \n2. ❌ Correct answer: `def`  \n3. ❌ Correct answer: `queue`  \n4. ❌ Correct answer: `global variable`",
+    "created_at": "2025-12-26T14:55:43.056596+02:00"
   }
 ]
