@@ -30,5 +30,21 @@
     "answers": "1) js\n2) python\n3) css\n4) xs",
     "result": "Let’s check each one:  \n\n1. **Oak** was the original name for **Java** (released 1995), so the answer should be **Java**, not `js` (JavaScript).  \n   → **Incorrect**. Correct answer: **Java**.\n\n2. **CSS** stands for **Cascading Style Sheets**, so `css` is correct.  \n   → **Correct**.\n\n3. Git uses the **SHA-1** hash algorithm for tracking changes, but the question asks for the *name of the algorithm* — often called the **SHA-1 hashing algorithm**.  \n   `python` is wrong here.  \n   → **Incorrect**. Correct answer: **SHA-1** (or **Secure Hash Algorithm 1**).\n\n4. The paradigm associated with pure functions and immutable data is **functional programming**.  \n   `xs` is not a recognized programming paradigm.  \n   → **Incorrect**. Correct answer: **functional programming**.\n\n**Summary of corrections:**  \n1. **Java**  \n2. **css** ✅  \n3. **SHA-1**  \n4. **functional programming**",
     "created_at": "2025-12-26T18:29:58.714848+02:00"
+  },
+  {
+    "id": 5,
+    "telegram_id": 5560635677,
+    "questions": "1. Which programming language, first released in 1995, was originally named Oak after a tree outside its creator's office?  \n2. What term describes a function or method that calls itself within its own definition?  \n3. In web development, what does the acronym CSS stand for?  \n4. Which data structure operates on a \"first in, first out\" (FIFO) principle?",
+    "answers": "1) JS\n2) YTHON\n3) CSS\n4) XSDSD",
+    "result": "Let's check each answer:  \n\n1. **JS** → The language originally named Oak is **Java**, not JavaScript. So this is incorrect.  \n   ✅ Correct answer: **Java**  \n\n2. **YTHON** → This seems like a misspelling of **Python**, but the question is about a function that calls itself — that’s **recursion** (or a recursive function), not a programming language name. So this is incorrect.  \n   ✅ Correct answer: **Recursion**  \n\n3. **CSS** → This matches the acronym in the question, and CSS stands for **Cascading Style Sheets**. So this is correct.  \n   ✅ Correct answer: **CSS** (Cascading Style Sheets)  \n\n4. **XSDSD** → This doesn’t match any known data structure. The FIFO data structure is a **queue**. So this is incorrect.  \n   ✅ Correct answer: **Queue**  \n\n**Final summary:**  \n1. ❌ Incorrect → **Java**  \n2. ❌ Incorrect → **Recursion**  \n3. ✅ Correct → **CSS**  \n4. ❌ Incorrect → **Queue**",
+    "created_at": "2025-12-26T18:33:02.134735+02:00"
+  },
+  {
+    "id": 6,
+    "telegram_id": 5560635677,
+    "questions": "1. Which programming language, first released in 1995, was originally named Oak after an oak tree outside its creator's office?  \n2. In web development, what does the acronym CSS stand for?  \n3. What is the name of the algorithm used by Git to track changes in source code, named after a famous mathematician and computer scientist?  \n4. In Python, what keyword is used to define a function?",
+    "answers": "1) css\n2) js\n3) python\n4) xl",
+    "result": "Let's check each answer:  \n\n1. **Your answer:** `css`  \n   **Question:** Which programming language, first released in 1995, was originally named Oak after an oak tree outside its creator's office?  \n   **Correct answer:** Java (Oak was its original name before being renamed Java).  \n   **Verdict:** Incorrect.  \n\n2. **Your answer:** `js`  \n   **Question:** In web development, what does the acronym CSS stand for?  \n   **Correct answer:** Cascading Style Sheets.  \n   **Verdict:** Incorrect (JS stands for JavaScript, not CSS).  \n\n3. **Your answer:** `python`  \n   **Question:** What is the name of the algorithm used by Git to track changes in source code, named after a famous mathematician and computer scientist?  \n   **Correct answer:** SHA-1 (created by the NSA, but Git uses it for hashing; the question may refer to the \"Linus Torvalds\" authorship of Git, but the algorithm is SHA-1, not Python).  \n   **Verdict:** Incorrect.  \n\n4. **Your answer:** `xl`  \n   **Question:** In Python, what keyword is used to define a function?  \n   **Correct answer:** `def`.  \n   **Verdict:** Incorrect.  \n\n**Summary of corrections:**  \n1. **Java**  \n2. **Cascading Style Sheets**  \n3. **SHA-1** (or possibly \"SHA-1 hashing algorithm\")  \n4. **def**",
+    "created_at": "2025-12-26T18:34:38.345276+02:00"
   }
 ]
