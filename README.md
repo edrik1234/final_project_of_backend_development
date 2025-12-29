@@ -165,7 +165,7 @@ then:
 *The system will:*
 
 build as a set of application Docker containers using Dockerfile and .dockerignore(telebot, api and logic_worker),
-and infrastructure containers (Kafka, PostgreSQL, and db_initializer) without cache
+and infrastructure containers (Kafka, PostgreSQL, and db_initializer) without cache.
 
 Start PostgreSQL.
 
@@ -173,7 +173,7 @@ Initialize the database schema.
 
 Launch all backend services.
 
-Begin processing Telegram events.
+Begin logging in to telegram_bot using JWT (Bearer token) and start processing Telegram events.
 
 Design Highlights.
 
