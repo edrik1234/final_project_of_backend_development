@@ -157,25 +157,24 @@ Amazon S3.
 
 
 ## Running the Project:
-**docker-compose up --build**
-
-
-
+**docker-compose build --no-cache**
+**docker-compose up**
 
 
 *The system will:*
+Build the containers without cache.
 
-Start PostgreSQL
+Start PostgreSQL.
 
-Initialize the database schema
+Initialize the database schema.
 
-Launch all backend services
+Launch all backend services.
 
-Begin processing Telegram events
+Begin processing Telegram events.
 
-Design Highlights
+Design Highlights.
 
-Stateless services
+Stateless services.
 
 Clear separation between API, logic, and messaging layers.
 
