@@ -32,7 +32,7 @@ Reproducible and deterministic local development environment.
 
 
 ## Containers
-1. telebot:
+### 1. telebot:
 
 Handles incoming Telegram updates.
 
@@ -46,7 +46,7 @@ Stateless and fully asynchronous.
 
 **Note**: At the end of a game session, session data is forwarded to external systems (Git-based versioning(through https and GIT_TOKEN), and AWS Lambda pipeline(through event-driven communication with aws credentials)).
 
-2. api:
+### 2. api:
 
 Implemented using FastAPI.
 
@@ -62,7 +62,7 @@ Producing events to Kafka.
 
 Does not perform heavy business logic.
 
-3. logic_worker:
+### 3. logic_worker:
 
 Kafka consumer service.
 
@@ -80,7 +80,7 @@ Responsibilities:
   
   5)Publishes results back to the system flow.
 
-4. postgres:
+### 4. postgres:
 
 Relational database service.
 
@@ -96,7 +96,7 @@ RequestStatuses.
 
 Runs as a dedicated container with health checks enabled.
 
-5. kafka:
+### 5. kafka:
 
 Message broker.
 
@@ -106,7 +106,7 @@ Enables scalable, event-driven communication between services.
 
 Prevents blocking the API during heavy logic execution.
 
-6. db_initializer (One-Shot Container):
+### 6. db_initializer (One-Shot Container):
 
 Dedicated database bootstrap container.
 
