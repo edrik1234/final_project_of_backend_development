@@ -1,3 +1,0 @@
-name: acess-key-to-save-game-sessions-in-s3
-acess_key: AKIAV4LPLJYPQGV7HBUD
-secret_key: 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
