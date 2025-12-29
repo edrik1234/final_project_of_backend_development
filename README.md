@@ -1,4 +1,4 @@
-Trivia Telegram Bot – Event-Driven Backend System
+# Trivia Telegram Bot – Event-Driven Backend System
 
 This project is an event-driven Trivia Telegram Bot built with a modular backend architecture, fully containerized and orchestrated using Docker Compose.
 
@@ -6,7 +6,7 @@ This project is an event-driven Trivia Telegram Bot built with a modular backend
 
 
 
-High-Level Overview:
+## High-Level Overview:
 
 The system is composed of multiple Docker containers, each with a single, well-defined responsibility.
 All services are orchestrated and monitored using Docker Compose.
@@ -15,7 +15,7 @@ All services are orchestrated and monitored using Docker Compose.
 
 
 
-Core goals of the project:
+## Core goals of the project:
 
 Event-driven backend design.
 
@@ -31,7 +31,7 @@ Reproducible and deterministic local development environment.
 
 
 
-Containers
+## Containers
 1. telebot:
 
 Handles incoming Telegram updates.
@@ -44,7 +44,7 @@ Receives processed responses and delivers messages back to Telegram.
 
 Stateless and fully asynchronous.
 
-Note: At the end of a game session, session data is forwarded to external systems (Git-based versioning(through https and GIT_TOKEN), and AWS Lambda pipeline(through event-driven communication with aws credentials)).
+**Note**: At the end of a game session, session data is forwarded to external systems (Git-based versioning(through https and GIT_TOKEN), and AWS Lambda pipeline(through event-driven communication with aws credentials)).
 
 2. api:
 
@@ -119,7 +119,7 @@ This approach prevents race conditions and ensures deterministic and reproducibl
 
 
 
-Key Technologies:
+## Key Technologies:
 
 Deepseek
 
@@ -151,14 +151,14 @@ Amazon S3.
 
 
 
-Running the Project:
-docker-compose up --build
+## Running the Project:
+**docker-compose up --build**
 
 
 
 
 
-The system will:
+*The system will:*
 
 Start PostgreSQL
 
@@ -183,7 +183,7 @@ Fully containerized development environment.
 
 
 
-Notes:
+***Notes:***
 
 The project is designed for local development and architectural demonstration purposes.
 
