@@ -70,9 +70,13 @@ Processes trivia logic asynchronously.
 
 Responsibilities:
   1)Evaluates user answers.
+  
   2)Integrates with the AI service(deepseek) for response generation.
+  
   3)Persists results to the database.
+  
   4)Writes results to the database.
+  
   5)Publishes results back to the system flow.
 
 4. postgres:
