@@ -163,7 +163,9 @@ then:
 
 
 *The system will:*
-Build the containers without cache.
+
+build as a set of application Docker containers using Dockerfile and .dockerignore(telebot, api and logic_worker),
+and infrastructure containers (Kafka, PostgreSQL, and db_initializer) without cache
 
 Start PostgreSQL.
 
