@@ -158,6 +158,7 @@ Amazon S3.
 
 ## Running the Project:
 **docker-compose build --no-cache**
+then:
 **docker-compose up**
 
 
