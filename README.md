@@ -69,6 +69,7 @@ Kafka consumer service.
 Processes trivia logic asynchronously.
 
 Responsibilities:
+
   1)Evaluates user answers.
   
   2)Integrates with the AI service(deepseek) for response generation.
