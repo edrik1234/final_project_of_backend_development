@@ -1,0 +1,7 @@
+requests
+telebot
+uvicorn==0.24.0
+sqlalchemy==2.0.23
+six
+psycopg2-binary==2.9.9
+boto3
