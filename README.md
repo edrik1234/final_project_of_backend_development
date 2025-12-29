@@ -3,10 +3,16 @@ Trivia Telegram Bot – Event-Driven Backend System
 This project is an event-driven Trivia Telegram Bot built with a modular backend architecture, fully containerized and orchestrated using Docker Compose.
 
 
+
+
+
 High-Level Overview:
 
 The system is composed of multiple Docker containers, each with a single, well-defined responsibility.
 All services are orchestrated and monitored using Docker Compose.
+
+
+
 
 
 Core goals of the project:
@@ -20,6 +26,9 @@ Stateless authentication with JWT(Bearer Tokens).
 Clear separation of concerns between services.
 
 Reproducible and deterministic local development environment.
+
+
+
 
 
 Containers
@@ -107,6 +116,9 @@ Exits automatically after completion.
 This approach prevents race conditions and ensures deterministic and reproducible database initialization.
 
 
+
+
+
 Key Technologies:
 
 Deepseek
@@ -136,8 +148,13 @@ AWS Lambda.
 Amazon S3.
 
 
+
+
+
 Running the Project:
 docker-compose up --build
+
+
 
 
 
@@ -162,6 +179,8 @@ Asynchronous background processing.
 Deterministic database initialization.
 
 Fully containerized development environment.
+
+
 
 
 Notes:
